@@ -1,4 +1,4 @@
-# mathtools
+# Math Tools
 
 ## Introduction
 
